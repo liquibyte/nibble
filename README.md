@@ -1,4 +1,4 @@
 nibble
 ======
 
-HTML5/CSS3 fork of FlatPress
+HTML5/CSS3 Microblog
